@@ -1,4 +1,4 @@
-# Conversley
+# Conversely
 Open Source Facebook Bot creator
 -------
 Alot of companies seem to be making big profits off facebook bot creation programs,
