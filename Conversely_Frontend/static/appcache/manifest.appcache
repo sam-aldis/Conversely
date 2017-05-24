@@ -1,0 +1,11 @@
+CACHE MANIFEST
+#ver:5/2/2017, 1:48:21 PM
+#plugin:4.7.0
+
+CACHE:
+/static/commons.js
+/static/app.js
+/static/index.js
+
+NETWORK:
+*

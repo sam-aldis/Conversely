@@ -1,0 +1,64 @@
+$background-grey : #ECECEC;
+$sidebar-grey : #FCFCFC;
+$subtitle-grey : #AAAAAA;
+$facebookBlue : #3b5998;
+
+html {
+    height: 100%;
+    body {
+        margin: 0;
+        background-color: $background-grey;
+        #react_context {
+            height: 100%;
+        }
+    }
+}
+
+.bot-item-select {
+    text-align: center;
+    cursor: pointer;
+    transition: 0.2s;
+}
+.bot-item-select:hover {
+    border: 1px solid $subtitle-grey;
+}
+
+.card-subtitle {
+    font-size: 15px;
+    color: $subtitle-grey;
+}
+.menu-bottom {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    padding-bottom: 60px;
+}
+.menu-button {
+    padding: 10px;
+}
+.main {
+    padding: 10px;
+}
+.removeButton {
+    background: none !important;
+    box-shadow: none !important;
+    color: $facebookBlue !important;
+    padding: 0px !important;
+    width: 20px !important;
+    font-size: 9pt !important;
+    margin: 0px !important;
+}
+@media (min-width:993px) {
+    .headerText {
+        padding-left: 10px;
+    }
+    header, main, .footer,.main {
+        margin-left: 300px;
+    }
+    .menu-button {
+        display: none !important;
+    }
+}
+.sidebar {
+    background-color: $sidebar-grey;
+}

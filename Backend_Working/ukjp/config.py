@@ -1,5 +1,6 @@
-FACEBOOK_ACCESS_TOKEN = "EAADBmxsgF18BAPWLIuI6xQXzrRmgb60rVJgVW5XJC7VFAAWx4mMVinlfFO4ZA7q4Fe0vqXTUxe7ZA6al7sqKDHCAljORbkYofSncoFY36PicWo8F5TznBvqxKldnEkvrpOr8BtQtbTZAC1gsOEl4E1l5Y87NxufvI4YM3OQiwZDZD"
+FACEBOOK_ACCESS_TOKEN = "insert_your_api_key_here"
 BOT_AUTH_TOKEN = "cd0127d5023fac0612f6c1e53c132f36"
+#TODO - the DB_LOCATION should be converted to pageid or something similar
 DB_LOCATION = 'jandakot'
 
 timezone = "Australia/Perth"

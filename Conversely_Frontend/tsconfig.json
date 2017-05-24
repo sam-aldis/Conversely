@@ -1,0 +1,17 @@
+{
+    "compileOnSave": false,
+    "files": [
+        "./app/botconfig.tsx"
+    ],
+    "compilerOptions": {
+        "jsx": "react",
+        "target": "ES5",
+        "removeComments": true,
+        "module": "commonjs",
+        "moduleResolution": "node"
+    },
+    "exclude": [
+        "node_modules",
+        "typings"
+    ]    
+}
