@@ -1,4 +1,6 @@
 # Conversely
+
+[![Join the chat at https://gitter.im/ukjp-conversely/Lobby](https://badges.gitter.im/ukjp-conversely/Lobby.svg)](https://gitter.im/ukjp-conversely/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Open Source Facebook Bot creator
 -------
 Alot of companies seem to be making big profits off facebook bot creation programs,
