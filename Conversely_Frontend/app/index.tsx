@@ -18,7 +18,7 @@ class Application extends React.Component<any,any> {
                 }
         }
         facebookResponse(res) {
-                if(res.name != undefined && res.name != ""){
+                if(res.name !== undefined && res.name !== ""){
                         this.context.setState({name:res.name,loggedIn:true,fbLogin:true,loading:true});
                         var email = "none@none.com";
                         if(res.email) {
